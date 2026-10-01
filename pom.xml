@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>org.cursillo</groupId>
-    <artifactId>cursillo-ms-featureA</artifactId>
+    <artifactId>cursillo-ms-notas</artifactId>
     <name>cursillo-ms-featureA</name>
     <description>cursillo-ms-featureA</description>
 
