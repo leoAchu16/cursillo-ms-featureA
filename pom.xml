@@ -12,8 +12,8 @@
 
     <groupId>org.cursillo</groupId>
     <artifactId>cursillo-ms-notas</artifactId>
-    <name>cursillo-ms-featureA</name>
-    <description>cursillo-ms-featureA</description>
+    <name>cursillo-ms-notas</name>
+    <description>cursillo-ms-notas</description>
 
     <dependencies>
         <dependency>
